@@ -64,16 +64,3 @@ It provides RESTful APIs for:
 ### Orders
 - POST /api/orders → Create order (protected)
 - GET /api/orders/:id → Get order by ID (protected)
-
-## Folder Structure
-ecommerce-backend/
-│
-├── config/         
-├── controllers/    
-├── middleware/     
-├── models/         
-├── routes/         
-├── utils/         
-├── uploads/      
-├── app.js
-└── server.js
